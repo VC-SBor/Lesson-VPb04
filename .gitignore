@@ -1,0 +1,18 @@
+# Виртуальное окружение Python
+venv/
+.venv/
+env/
+
+# Скомпилированные файлы Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Редакторы / IDE
+.idea/
+.vscode/
+*.iml
+
+# Системные файлы
+Thumbs.db
+.DS_Store
